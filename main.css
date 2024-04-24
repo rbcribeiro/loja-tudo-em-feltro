@@ -7,42 +7,42 @@ body {
 }
 
 #cabecalho .nav .nav-link.active {
-    background-color: #2d1e41;
-    color: #47294b;
+    background-color: #fff;
+    color: #190e27;
 }
 
 #cabecalho .nav .nav-link,
 .navbar-brand,
 .navbar-brand:hover,
-.nav-cardapio .nav-link.active:hover {
+.nav-catalogo .nav-link.active:hover {
     color: #fff;
 }
 
 .navbar-toggler {
-    background-color: #2d1e41;
+    background-color: #47294b;
 }
 
 .section-title {
     font-family: Pacifico, cursive;
 }
 
-#sobre-loja, #cardapio {
+#momentos, #fale-conosco {
     background-color: #ffeae6;
 }
 
 .text-colored {
-    color: #8e5a95;
+    color: #47294b;
 
 }
 
-.nav-cardapio .nav-link.active,
+.nav-catalogo .nav-link.active,
 #fale-conosco button {
-    background-color: #8e5a95;
-    color: #fff;
+    background-color: #47294b;
+    color: #ffeae6;
 }
 
-.nav-cardapio .nav-link:hover {
-    color: #8e5a95;   
+.nav-catalogo .nav-link:hover {
+    color: #ee76da;   
 }
 
 .social-links li {
